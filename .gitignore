@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.log
+
+# State and Cache Files
+playlists_to_process.json
+video_info_cache.json
+
+# Configuration and Secrets
+config.json
+.env
+
+venv/
+.venv/
